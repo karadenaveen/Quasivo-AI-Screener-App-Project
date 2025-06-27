@@ -1,4 +1,4 @@
-# Quasivo AI Screener 
+# Quasivo-AI-Screener 
 
 
 ##  Important Features
