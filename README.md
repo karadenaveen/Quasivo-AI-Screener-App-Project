@@ -1,7 +1,7 @@
 # Quasivo AI Screener 
 
 
-##  Features
+##  Important Features
 
 -  **Job Description Input** – Paste text or upload a file
 -  **Resume Input** – Paste text or upload a PDF
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Technical Contents
 
 - **Frontend/Backend**: Streamlit
 - **LLM**: Google Gemini API (gemini-2.0-flash)
