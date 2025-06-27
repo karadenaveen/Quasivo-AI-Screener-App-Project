@@ -1,7 +1,31 @@
+# Quasivo AI Screener 
 
 
+##  Features
 
+-  **Job Description Input** – Paste text or upload a file
+-  **Resume Input** – Paste text or upload a PDF
+-  **Gemini API Integration**:
+  - Compares resume with JD
+  - Generates 3 interview questions
+  - Accepts text answers
+  - Scores each answer (1–10 scale)
+-  **Local Persistence** – Stores JD, resume, questions, answers, and scores as `.json` files
+-  **Summary View** – Displays all questions, answers, and scores together
 
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend/Backend**: Streamlit
+- **LLM**: Google Gemini API (gemini-2.0-flash)
+- **File Parsing**: PyMuPDF for PDF reading
+- **Storage**: JSON/Text files (no DB)
+- **Environment Handling**: Python-dotenv for API key management
+
+---
+## Save In 
+## 📁 Folder Structure
 
 
 
